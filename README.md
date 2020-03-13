@@ -1,1 +1,3 @@
-# OpenCV-
+# OpenCV
+
+Implementation of OpenCV functions.
